@@ -1,0 +1,47 @@
+# Ignore vendor directories
+/vendor/
+
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore build artifacts
+/dist/
+/build/
+
+# Ignore environment configuration files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+/cache/
+
+# Ignore session files
+/sessions/
+
+# Ignore IDE and editor specific files
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
